@@ -33,12 +33,11 @@
 
 #### TODO: top
 
-: Сдать материалы: <2023-03-25 20:00>
-: Защита: <2023-05-01 14:10>
-
-* TODO: Результаты [0%]
+* TODO: Результаты
 - [-] 1. Код [33%]
   - [X] 1.1. Рабочий скелет.
+    - [ ] 1.1. ML методы.
+    - [ ] 1.2. Нейросеть.
   - [ ] 1.2. Комментарии.
   - [ ] 1.3. Оформление.
 - [ ] 2. Пояснительная записка [0%]
@@ -123,3 +122,33 @@
 |     24 |     25 |     26 |     27 |     28 |     29 |     30 |
 
 ------
+
+* tek repo tree
+
+  ** branch 'main'
+
+.
+├── dataset
+│   ├── in_x_bp.csv
+│   ├── in_x_bp.xlsx
+│   ├── in_x_nup.csv
+│   └── in_x_nup.xlsx
+├── ipynb
+│   ├── v00_my_VKR_rev2.ipynb
+│   └── v00_my_vkr_rev2.py
+├── ipynb_raw
+│   ├── C_01_v01_my_VKR_rev2.ipynb
+│   ├── c_01_v01_my_vkr_rev2.py
+│   └── raw_tests_my_VKR.ipynb
+├── presentation
+│   ├── raw
+│   │   └── v02_Presentation_rev1.pptx
+│   ├── v00_Presentation_rev1.pptx
+│   └── v01_Presentation_rev2.pptx
+├── README.md
+├── TODO.org
+└── tree_branch-main.txt
+
+6 directories, 15 files
+
+  ** branch 'dev'
