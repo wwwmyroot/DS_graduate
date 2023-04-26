@@ -44,8 +44,37 @@
 
 ## Содержание репозитория:
 
+.
+├── application
+│   ├── app_fin_KurinnoyAV.ipynb
+│   ├── minmax_scl_x.pkl
+│   ├── minmax_scl_y.pkl
+│   └── model_matrix
+│       ├── fingerprint.pb
+│       ├── keras_metadata.pb
+│       ├── saved_model.pb
+│       └── variables
+│           ├── variables.data-00000-of-00001
+│           └── variables.index
+├── dataset
+│   ├── in_1col_x_bp.csv
+│   ├── in_1col_x_nup.csv
+│   ├── in_x_bp.csv
+│   ├── in_x_bp.xlsx
+│   ├── in_x_bp.zip
+│   ├── in_x_nup.csv
+│   ├── in_x_nup.xlsx
+│   ├── in_x_nup.zip
+│   └── X_full.xlsx
+├── MainCode_KurinnoyAV.ipynb
+├── maincode_kurinnoyav.py
+├── README.md
+├── Пояснительная_записка_КуриннойАВ.docx
+├── Пояснительная_записка_КуриннойАВ.pdf
+├── Презентация_КуриннойАВ.pdf
+└── Презентация_КуриннойАВ.pptx
 
-
+5 directories, 24 files
 
 ------
 ## Direct links.
@@ -60,6 +89,6 @@
 - Пояснительная записка: https://docs.google.com/document/d/1tiq-vYmhQi4v4T9AOYW4pAkXb-dZQzEG/edit?usp=sharing&ouid=115919505493649108196&rtpof=true&sd=true
 
 ### Резерв-2 (архив .zip):
-- GoogleDrive: 
+- GoogleDrive: https://drive.google.com/file/d/1MbPIdTj5FGW2wc5W_oAmeV0Mdtwo2i6l/view?usp=sharing 
  
 ------
