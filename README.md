@@ -38,7 +38,7 @@
 
 ### Создано два варианта приложения:
 - веб-приложение в фреймворке Flask;
-- консольное приложение.
+- консольное приложение;
 
 ------
 
@@ -50,28 +50,16 @@
 ------
 ## Direct links.
 
-### Код:
-- GoogleDrive:
-- GitHub:
+### Основной репозиторий (ноутбук, приложения, пояснительная записка, презентация):
+- Github: https://github.com/wwwmyroot/DS_graduate
 
-### Презентация:
+### GoogleDocs (резерв-1 и прямые ссылки):
+
+- GoogleCollab: https://colab.research.google.com/drive/1Zpm8JWJS9ExsMitfmnS-qjBXK1FC2nOX?usp=sharing
+- Презентация: https://docs.google.com/presentation/d/1L_qtTnn5YHcUQQVB0D5ZE7_qVNtMnLmv-LbV8LQp7IM/edit?usp=sharing
+- Пояснительная записка: https://docs.google.com/document/d/1tiq-vYmhQi4v4T9AOYW4pAkXb-dZQzEG/edit?usp=sharing&ouid=115919505493649108196&rtpof=true&sd=true
+
+### Резерв-2 (архив .zip):
 - GoogleDrive: 
-- GitHub:
  
-### Пояснительная записка:
-- GoogleDrive:
-- GitHub:
-
-### Приложение flask:
-- GoogleDrive:
-- GitHub:
-
-### Приложение console:
-- GoogleDrive:
-- GitHub:
-
-### Последняя версия репозитория одним архивом:
- - GoogleDrive:
- 
-### 2-я копия репозитория:
- - Notabug: 
+------
