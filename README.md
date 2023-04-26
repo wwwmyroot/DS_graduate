@@ -55,24 +55,23 @@
 - GitHub:
 
 ### Презентация:
- •	GoogleDrive: 
- •	GitHub:
+- GoogleDrive: 
+- GitHub:
  
 ### Пояснительная записка:
- •	GoogleDrive:
- •	GitHub:
+- GoogleDrive:
+- GitHub:
 
 ### Приложение flask:
- •	
- •	
+- GoogleDrive:
+- GitHub:
 
 ### Приложение console:
- •	
- •	
+- GoogleDrive:
+- GitHub:
 
 ### Последняя версия репозитория одним архивом:
- •	GoogleDrive:
- •	GitHub:
+ - GoogleDrive:
  
- - 2-я копия репозитория:
- •	
+### 2-я копия репозитория:
+ - Notabug: 
