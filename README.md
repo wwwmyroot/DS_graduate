@@ -75,36 +75,6 @@
  - └── Презентация_КуриннойАВ.pptx
 
 5 directories, 24 files
-├── application
-│   ├── app_fin_KurinnoyAV.ipynb
-│   ├── minmax_scl_x.pkl
-│   ├── minmax_scl_y.pkl
-│   └── model_matrix
-│       ├── fingerprint.pb
-│       ├── keras_metadata.pb
-│       ├── saved_model.pb
-│       └── variables
-│           ├── variables.data-00000-of-00001
-│           └── variables.index
-├── dataset
-│   ├── in_1col_x_bp.csv
-│   ├── in_1col_x_nup.csv
-│   ├── in_x_bp.csv
-│   ├── in_x_bp.xlsx
-│   ├── in_x_bp.zip
-│   ├── in_x_nup.csv
-│   ├── in_x_nup.xlsx
-│   ├── in_x_nup.zip
-│   └── X_full.xlsx
-├── MainCode_KurinnoyAV.ipynb
-├── maincode_kurinnoyav.py
-├── README.md
-├── Пояснительная_записка_КуриннойАВ.docx
-├── Пояснительная_записка_КуриннойАВ.pdf
-├── Презентация_КуриннойАВ.pdf
-└── Презентация_КуриннойАВ.pptx
-
-5 directories, 24 files
 
 ------
 ## Direct links.
